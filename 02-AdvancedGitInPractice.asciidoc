@@ -2,4 +2,6 @@ PushTest
 
 Prufa git fetch
 
-prufa ad breyta chapter-two branchEXTRA  
+prufa ad breyta chapter-two branch
+
+EXTRA stuff 
